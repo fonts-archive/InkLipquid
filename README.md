@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'InkLipquid';
@@ -12,7 +12,7 @@ font-family: 'InkLipquid';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/InkLipquid/InkLipquid.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/InkLipquid/InkLipquid.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -41,4 +41,14 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/InkLipquid/InkLipquid.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/InkLipquid/InkLipquid.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+사용범위 개인/ 상업적 용도 모두 이용 가능 폰트 
+사용 금지 규정(장 변형금지/ 평 변형 금지/ 기울기 적용 금지) 지키며 재배포 및 활용 가능 
+*기타 폰트 사용 관련 문의: thefaceshop@lgcare.com
 ```
